@@ -16,7 +16,6 @@ Soy estudiante de Analisis de sistemas, me apasiona la tegnologia!
 
 
 ### Comandos de la terminal
-
 |   Nobres   |             Descripción                   | 
 |:-----------|:-----------------------------------------:| 
 | ls         | Listar archivos y directorios             | 
@@ -26,7 +25,6 @@ Soy estudiante de Analisis de sistemas, me apasiona la tegnologia!
 | dwd        | rutas absolutas de los directorios actual |
 
 ### Alias 
-
 |   Nobres      |             Descripción                | 
 |:------------- |:--------------------------------------:| 
 | posts         | muestra los puertos abiertos           | 
