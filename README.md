@@ -1,16 +1,33 @@
 ### Hi there 👋
 
-<!--
-**Agustin0developer/Agustin0developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Mi nombre es Agustin 
+=============
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy estudiante de Analisis de sistemas, me apasiona la tegnologia!
+-------------
+
+### Skill
+
+* HTML
+* SASS
+* ANGULAR
+* JS
+
+
+### Comandos de la terminal
+
+|   Nobres   |             Descripción                   | 
+|:-----------|:-----------------------------------------:| 
+| ls         | Listar archivos y directorios             | 
+| cd         | Cambiar directorios                       | 
+| mv         | Moverme y renombrar archivos              | 
+| date       | hora actual del o fecha del sistema       | 
+| dwd        | rutas absolutas de los directorios actual |
+
+### Alias 
+
+|   Nobres      |             Descripción                | 
+|:------------- |:--------------------------------------:| 
+| posts         | muestra los puertos abiertos           | 
+| del           | borrar ficheros con confirmacion       | 
