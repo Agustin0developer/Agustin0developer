@@ -4,7 +4,7 @@
 Mi nombre es Agustin 
 =============
 
-Soy estudiante de Analisis de sistemas, me apasiona la tegnologia!
+Soy estudiante de sistemas, me apasiona la tegnologia!
 -------------
 
 ### Skill
