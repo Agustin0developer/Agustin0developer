@@ -8,7 +8,7 @@ Soy estudiante de sistemas, me apasiona la tegnologia!
 -------------
 
 ### Skill
-
+-------------
 ### BackEnd
 * Java 8
 * .NET CORE MVC
