@@ -9,25 +9,18 @@ Soy estudiante de sistemas, me apasiona la tegnologia!
 
 ### Skill
 
-* HTML
-* SASS
+* .NET CORE MVC
+* TYPESCRIPT
 * ANGULAR
 * JS
 
 
-### Comandos de la terminal
+### Mis Competencias
 
-|   Nobres   |             Descripción                   | 
-|:-----------|:-----------------------------------------:| 
-| ls         | Listar archivos y directorios             | 
-| cd         | Cambiar directorios                       | 
-| mv         | Moverme y renombrar archivos              | 
-| date       | hora actual del o fecha del sistema       | 
-| dwd        | rutas absolutas de los directorios actual |
-
-### Alias 
-
-|   Nobres      |             Descripción                | 
-|:------------- |:--------------------------------------:| 
-| posts         | muestra los puertos abiertos           | 
-| del           | borrar ficheros con confirmacion       | 
+ Habilidades de
+comunicación
+ Adaptabilidad
+ Aprendizaje continuo
+ Flexibilidad
+ Metodologías ágiles
+ Trabajo en equipo
