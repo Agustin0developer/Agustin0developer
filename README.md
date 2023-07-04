@@ -11,10 +11,8 @@ Soy estudiante de sistemas, me apasiona la tegnologia!
 ### Skill
 -------------
 ### BackEnd
-* Java 8
+* Java 
 * .NET CORE MVC
-* Web Services
-* SOAP Y REST
 * Postman Y SoapUI
 * SQL SERVER
 
