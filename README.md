@@ -6,6 +6,7 @@ Mi nombre es Agustin
 =============
 
 Soy estudiante de sistemas, me apasiona la tegnologia!
+En busqueda de empleo de medio tiempo o practicas
 -------------
 
 ### Skill
