@@ -25,13 +25,3 @@ En busqueda de empleo de medio tiempo o practicas
 * HTML5
   
 
-
-### Mis Competencias
-
-* Habilidades de
-comunicación
-* Adaptabilidad
-* Aprendizaje continuo
-* Flexibilidad
-* Metodologías ágiles
-* Trabajo en equipo
